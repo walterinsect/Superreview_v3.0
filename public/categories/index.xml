@@ -6,13 +6,34 @@
     <description>Recent content in Categories on 極度乾燥しなさい3.0</description>
     <generator>Hugo</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 07 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uncategorized-En</title>
+      <link>http://localhost:1313/categories/uncategorized-en/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/uncategorized-en/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Uncategorized-Fi</title>
+      <link>http://localhost:1313/categories/uncategorized-fi/</link>
+      <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/uncategorized-fi/</guid>
+      <description></description>
+    </item>
     <item>
       <title>駄文-Ja</title>
       <link>http://localhost:1313/categories/%E9%A7%84%E6%96%87-ja/</link>
-      <pubDate>Wed, 07 Oct 2015 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/%E9%A7%84%E6%96%87-ja/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ss-Ja</title>
+      <link>http://localhost:1313/categories/ss-ja/</link>
+      <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/ss-ja/</guid>
       <description></description>
     </item>
   </channel>
