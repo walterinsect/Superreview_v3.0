@@ -1,3 +1,9 @@
+---
+aliases: 
+tags: 
+date created: 2025-02-17, 21:58:47
+date modified: 2025-02-17, 22:44:25
+---
 +++
 date = '2025-02-14T23:46:41+09:00'
 draft = false
