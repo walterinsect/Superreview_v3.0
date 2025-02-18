@@ -1,6 +1,9 @@
-baseURL = 'https://example.org/'
-languageCode = 'ja-JP'
-title = '極度乾燥しなさい3.0'
+baseURL: https://example.org/
+languageCode: ja-JP
+params:
+  contact:
+    email: info@wyamazaki.fi
+title: 極度乾燥しなさい3.0
 theme: "PaperMod"
 module:
   imports:
