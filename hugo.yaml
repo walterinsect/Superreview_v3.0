@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'ja-JP'
 title = '極度乾燥しなさい3.0'
-theme: ["PaperMod"]
+theme: "PaperMod"
 module:
   imports:
   - path: github.com/adityatelange/hugo-PaperMod
