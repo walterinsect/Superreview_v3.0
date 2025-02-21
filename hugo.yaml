@@ -62,9 +62,9 @@ markup:
       wrapStandAloneImageWithinParagraph: true
     renderHooks:
       image:
-        enableDefault: false
+        enableDefault: true
       link:
-        enableDefault: false
+        enableDefault: true
     renderer:
       hardWraps: false
       unsafe: true
