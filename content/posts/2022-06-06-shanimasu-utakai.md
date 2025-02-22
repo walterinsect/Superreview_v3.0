@@ -10,14 +10,22 @@ title: シャニマス歌会第十一回提出作解題・改稿
 https://twitter.com/Shiny_412/status/1532365642996715520
 
 <figure>
-<img src="utakai-doku-yui.png" title="wikilink"
-alt="utakai-doku-yui.png" />
-<figcaption aria-hidden="true">utakai-doku-yui.png</figcaption>
+
+![](../2020-02-21-archiving-city-project-part-1/65c2f6730e605255807e63e7cf3b6eb27b18bb79.jpg)
+
+<figcaption>
+
+Exterior of Metsätalo building, with visible mark left by machinegun fire
+
+</figcaption>
+
 </figure>
 
+
+
+
 <figure>
-<img src="utakai-sho-kaku.png" title="wikilink"
-alt="utakai-sho-kaku.png" />
+
 <figcaption aria-hidden="true">utakai-sho-kaku.png</figcaption>
 </figure>
 
