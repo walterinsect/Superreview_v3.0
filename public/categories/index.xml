@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on 極度乾燥しなさい3.0</title>
-    <link>https://walterinsect.github.io/Superreview_v3.0/categories/</link>
+    <link>http://localhost:1313/Superreview_v3.0/categories/</link>
     <description>Recent content in Categories on 極度乾燥しなさい3.0</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>ja-JP</language>
     <lastBuildDate>Fri, 21 Feb 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://walterinsect.github.io/Superreview_v3.0/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Superreview_v3.0/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Uncategorized-En</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/categories/uncategorized-en/</link>
+      <link>http://localhost:1313/Superreview_v3.0/categories/uncategorized-en/</link>
       <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/categories/uncategorized-en/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/categories/uncategorized-en/</guid>
       <description></description>
     </item>
     <item>
       <title>Uncategorized-Fi</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/categories/uncategorized-fi/</link>
+      <link>http://localhost:1313/Superreview_v3.0/categories/uncategorized-fi/</link>
       <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/categories/uncategorized-fi/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/categories/uncategorized-fi/</guid>
       <description></description>
     </item>
     <item>
       <title>駄文-Ja</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/categories/%E9%A7%84%E6%96%87-ja/</link>
+      <link>http://localhost:1313/Superreview_v3.0/categories/%E9%A7%84%E6%96%87-ja/</link>
       <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/categories/%E9%A7%84%E6%96%87-ja/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/categories/%E9%A7%84%E6%96%87-ja/</guid>
       <description></description>
     </item>
     <item>
       <title>Ss-Ja</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/categories/ss-ja/</link>
+      <link>http://localhost:1313/Superreview_v3.0/categories/ss-ja/</link>
       <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/categories/ss-ja/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/categories/ss-ja/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>極度乾燥しなさい3.0</title>
-    <link>https://walterinsect.github.io/Superreview_v3.0/</link>
+    <link>http://localhost:1313/Superreview_v3.0/</link>
     <description>Recent content on 極度乾燥しなさい3.0</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>ja-JP</language>
     <lastBuildDate>Sun, 16 Feb 2025 00:05:00 +0900</lastBuildDate>
-    <atom:link href="https://walterinsect.github.io/Superreview_v3.0/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Superreview_v3.0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>スクールアイドルミュージカル2025公演</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%AB%E3%83%AB2025%E5%85%AC%E6%BC%94/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%AB%E3%83%AB2025%E5%85%AC%E6%BC%94/</link>
       <pubDate>Sun, 16 Feb 2025 00:05:00 +0900</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%AB%E3%83%AB2025%E5%85%AC%E6%BC%94/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%AB%E3%83%AB2025%E5%85%AC%E6%BC%94/</guid>
       <description>&lt;p&gt;ミリしらで悪いオタクにそそのかされて観劇。&lt;/p&gt;
 &lt;p&gt;ラブライブのコアである伝統と革新、憧れと親友みたいな話が非常コンパクトにまとまっている。ものすごい良いがものすごい布教しにくい。&lt;/p&gt;
 &lt;p&gt;少し面白いのはラブライブゼロとしての話であるから時系列的には90年代後半、00年代前半くらいの位置づけであることだけれど、他のラブライブよりもアクチュアルな政治的モチーフがそのまま（戯画化されずに）使われているのが印象的。「少子化が進んだ世界で学校が生き残るためにどうするか」という廃校のモチーフがリアルに使われているし、通常よりも教育関係者が地域単位で結束し取り扱われることに加えて、ルリカの父親の死を通して言外に震災復興のモチーフが入ってるっぽいのすごいと思う。&lt;/p&gt;
@@ -27,9 +27,9 @@
     </item>
     <item>
       <title>MS365環境での「Poor Mans GitHub」を法務業務に</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/ms365%E7%92%B0%E5%A2%83%E3%81%A7%E3%81%AEpoor-mans-github%E3%82%92%E6%B3%95%E5%8B%99%E6%A5%AD%E5%8B%99%E3%81%AB/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/ms365%E7%92%B0%E5%A2%83%E3%81%A7%E3%81%AEpoor-mans-github%E3%82%92%E6%B3%95%E5%8B%99%E6%A5%AD%E5%8B%99%E3%81%AB/</link>
       <pubDate>Fri, 14 Feb 2025 23:46:41 +0900</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/ms365%E7%92%B0%E5%A2%83%E3%81%A7%E3%81%AEpoor-mans-github%E3%82%92%E6%B3%95%E5%8B%99%E6%A5%AD%E5%8B%99%E3%81%AB/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/ms365%E7%92%B0%E5%A2%83%E3%81%A7%E3%81%AEpoor-mans-github%E3%82%92%E6%B3%95%E5%8B%99%E6%A5%AD%E5%8B%99%E3%81%AB/</guid>
       <description>&lt;h1 id=&#34;ms365環境でのpoor-mans-githubを法務業務に&#34;&gt;MS365環境での「Poor Man&amp;rsquo;s GitHub」を法務業務に&lt;/h1&gt;
 &lt;h2 id=&#34;poor-mans-githubのススメまたは持たざるもののdx&#34;&gt;「Poor man&amp;rsquo;s GitHub」のススメ、または持たざるもののDX&lt;/h2&gt;
 &lt;p&gt;思想を実際のフローに落とし込むために最も簡単な手段は「その思想で作られたツールを導入すること」である。要はGitHubを導入してしまえばいいのだ。実際Wantedlyはそういうことをやっているらしい。&lt;/p&gt;
@@ -96,9 +96,9 @@
     </item>
     <item>
       <title>THE IDOLM@STER M@STERS OF IDOL WORLD!!!!! 2023</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/the-idolm@ster-m@sters-of-idol-world-2023/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/the-idolm@ster-m@sters-of-idol-world-2023/</link>
       <pubDate>Fri, 14 Feb 2025 21:17:41 +0900</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/the-idolm@ster-m@sters-of-idol-world-2023/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/the-idolm@ster-m@sters-of-idol-world-2023/</guid>
       <description>&lt;p&gt;アイドルマスターを追いかけ始めてそろそろ11年目に差し掛かろうというオタクが、2015年にM@STERS OF IDOL WORLD 2015に参加しないことを8年後悔したあと、アイマス5ブランドを広く浅く履修しまくって、コロナで乾いた時期を超えて参加した初めてのアイドルマスター合同ライブ。消えかえた記憶を固定しておくために出力しておくとりとめのない話。
 何ならアイマス含めて「キャラクター」に真剣に生き、それが高じて本業としてのフィギュアメーカー社員というキャリアすら進んでいる「中の人に近いファン」というポジションに来てしまった28歳男性の話。&lt;/p&gt;
 &lt;h1 id=&#34;day1&#34;&gt;DAY1&lt;/h1&gt;
@@ -327,9 +327,9 @@
     </item>
     <item>
       <title>エクストリーム帰寮体験記2023</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2023-12-25-%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%A0%E5%B8%B0%E5%AF%AE%E4%BD%93%E9%A8%93%E8%A8%982023/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2023-12-25-%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%A0%E5%B8%B0%E5%AF%AE%E4%BD%93%E9%A8%93%E8%A8%982023/</link>
       <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2023-12-25-%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%A0%E5%B8%B0%E5%AF%AE%E4%BD%93%E9%A8%93%E8%A8%982023/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2023-12-25-%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%A0%E5%B8%B0%E5%AF%AE%E4%BD%93%E9%A8%93%E8%A8%982023/</guid>
       <description>&lt;h1 id=&#34;はじめに&#34;&gt;はじめに&lt;/h1&gt;
 &lt;p&gt;こちらはエクストリーム帰寮Advent Calendar2023の18日目の記事となります。&lt;br&gt;
 （めっちゃ遅刻しました許してください）&lt;/p&gt;
@@ -400,9 +400,9 @@
     </item>
     <item>
       <title>【ネタバレの宝庫】ピングドラム１８話</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2022-08-12-%E3%83%8D%E3%82%BF%E3%83%90%E3%83%AC%E3%81%AE%E5%AE%9D%E5%BA%AB%E3%83%94%E3%83%B3%E3%82%B0%E3%83%89%E3%83%A9%E3%83%A0%EF%BC%91%EF%BC%98%E8%A9%B1/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2022-08-12-%E3%83%8D%E3%82%BF%E3%83%90%E3%83%AC%E3%81%AE%E5%AE%9D%E5%BA%AB%E3%83%94%E3%83%B3%E3%82%B0%E3%83%89%E3%83%A9%E3%83%A0%EF%BC%91%EF%BC%98%E8%A9%B1/</link>
       <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2022-08-12-%E3%83%8D%E3%82%BF%E3%83%90%E3%83%AC%E3%81%AE%E5%AE%9D%E5%BA%AB%E3%83%94%E3%83%B3%E3%82%B0%E3%83%89%E3%83%A9%E3%83%A0%EF%BC%91%EF%BC%98%E8%A9%B1/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2022-08-12-%E3%83%8D%E3%82%BF%E3%83%90%E3%83%AC%E3%81%AE%E5%AE%9D%E5%BA%AB%E3%83%94%E3%83%B3%E3%82%B0%E3%83%89%E3%83%A9%E3%83%A0%EF%BC%91%EF%BC%98%E8%A9%B1/</guid>
       <description>&lt;p&gt;2011年11月11日、当時Facebook notesにあげてあった怪文書を発掘したのでおいておこう。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;ツイッタに書ける分量をこえているからこっちでかくわ。&lt;/p&gt;
@@ -428,9 +428,9 @@
     </item>
     <item>
       <title>ピングドラム22話</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2022-08-12-%E3%83%94%E3%83%B3%E3%82%B0%E3%83%89%E3%83%A9%E3%83%A022%E8%A9%B1/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2022-08-12-%E3%83%94%E3%83%B3%E3%82%B0%E3%83%89%E3%83%A9%E3%83%A022%E8%A9%B1/</link>
       <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2022-08-12-%E3%83%94%E3%83%B3%E3%82%B0%E3%83%89%E3%83%A9%E3%83%A022%E8%A9%B1/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2022-08-12-%E3%83%94%E3%83%B3%E3%82%B0%E3%83%89%E3%83%A9%E3%83%A022%E8%A9%B1/</guid>
       <description>&lt;p&gt;2011年12月9日の怪文書。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;やべえやべえやべえ&lt;/p&gt;
@@ -470,9 +470,9 @@
     </item>
     <item>
       <title>ピンドラ20話</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2022-08-12-%E3%83%94%E3%83%B3%E3%83%89%E3%83%A920%E8%A9%B1/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2022-08-12-%E3%83%94%E3%83%B3%E3%83%89%E3%83%A920%E8%A9%B1/</link>
       <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2022-08-12-%E3%83%94%E3%83%B3%E3%83%89%E3%83%A920%E8%A9%B1/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2022-08-12-%E3%83%94%E3%83%B3%E3%83%89%E3%83%A920%E8%A9%B1/</guid>
       <description>&lt;p&gt;2011年11月25日の怪文書。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Bravo!ピンドラはいつも素晴らしい。冠葉は夏目家の人間だったとは&amp;hellip;。んで晶馬だけが高倉の子どもだったわけだ。陽毬はどこからきたんだろうか。あと何故冠葉は高倉家に入っているのか&amp;hellip;。未だに高倉母の役割がわからないし&amp;hellip;。養子に出されたと考えても問題ないのかな&amp;hellip;。真砂子の台詞から考えるに真砂子父もKIGAのメンバーということが明かされてしまった&amp;hellip;。じいさんの態度もまあ理解できるレベルになってきたな。しかし猫とペンギンがああいうふうにつながるとは&amp;hellip;。「サンちゃん」は３という意味と太陽という意味を持っていたということだね。でも前回のこどもブロイラーでの描写と異なっているな。乗り換え後なのか？タブキ達の過去に関しても矛盾する点があるし、世界が違うと考えるべきだろうか&amp;hellip;。ダイバージェンスメーターがあれば楽なんだが&amp;hellip;。&lt;/p&gt;
@@ -482,27 +482,36 @@
     </item>
     <item>
       <title>シャニマス歌会第十一回提出作解題・改稿</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2022-06-06-shanimasu-utakai/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2022-06-06-shanimasu-utakai/</link>
       <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2022-06-06-shanimasu-utakai/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2022-06-06-shanimasu-utakai/</guid>
       <description>&lt;p&gt;シャニマス4thをきっかけに何故か手を出した短歌を詠む趣味の第一段階として「&lt;a href=&#34;https://twitter.com/Shiny_412&#34;&gt;シャニマス詩歌部&lt;/a&gt;」Discordサーバーで開催の歌会に参加した。4首出したやつの解題と評価がいまいちだった作品の改稿というのをやってみようと思う。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://twitter.com/Shiny_412/status/1532365642996715520&#34;&gt;https://twitter.com/Shiny_412/status/1532365642996715520&lt;/a&gt;&lt;/p&gt;
 &lt;figure&gt;
-&lt;img src=&#34;utakai-doku-yui.png&#34; title=&#34;wikilink&#34;
-alt=&#34;utakai-doku-yui.png&#34; /&gt;
-&lt;figcaption aria-hidden=&#34;true&#34;&gt;utakai-doku-yui.png&lt;/figcaption&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../2020-02-21-archiving-city-project-part-1/65c2f6730e605255807e63e7cf3b6eb27b18bb79.jpg&#34;&gt;&lt;/p&gt;
+&lt;figcaption&gt;
+&lt;p&gt;Exterior of Metsätalo building, with visible mark left by machinegun fire&lt;/p&gt;
+&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-&lt;img src=&#34;utakai-sho-kaku.png&#34; title=&#34;wikilink&#34;
-alt=&#34;utakai-sho-kaku.png&#34; /&gt;
-&lt;figcaption aria-hidden=&#34;true&#34;&gt;utakai-sho-kaku.png&lt;/figcaption&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../2022-06-06-shanimasu-utakai/utakai-doku-yui.png&#34;&gt;&lt;/p&gt;
+&lt;figcaption&gt;
+&lt;p&gt;caption&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-&lt;img src=&#34;極度乾燥しなさいVER2.0 Archive/post/2022/06/images/image.png&#34;
-title=&#34;wikilink&#34;
-alt=&#34;極度乾燥しなさいVER2.0Archive/post/2022/06/images/image.png&#34; /&gt;
-&lt;figcaption
-aria-hidden=&#34;true&#34;&gt;極度乾燥しなさいVER2.0Archive/post/2022/06/images/image.png&lt;/figcaption&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../2022-06-06-shanimasu-utakai/utakai-sho-kaku.png&#34;&gt;&lt;/p&gt;
+&lt;figcaption&gt;
+&lt;p&gt;caption2&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../2022-06-06-shanimasu-utakai/image.png&#34;&gt;&lt;/p&gt;
+&lt;figcaption&gt;
+&lt;p&gt;caption&lt;/p&gt;
+&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;h2 id=&#34;書待ち合わせ書淫の君の顔かんばせの眼鏡がんきょうキラリ映る黄紅葉&#34;&gt;書：待ち合わせ書淫の君の顔かんばせの眼鏡がんきょうキラリ映る黄紅葉&lt;/h2&gt;
 &lt;p&gt;題材として「書」を考えた時に、真っ先に思い浮かんだのが桑山千雪さんのこの1枚だったのでそこから作ってみた。&lt;/p&gt;
@@ -544,17 +553,17 @@ aria-hidden=&#34;true&#34;&gt;極度乾燥しなさいVER2.0Archive/post/2022/06
     </item>
     <item>
       <title>Archiving city Project - Part 1</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2020-02-21-archiving-city-project-part-1/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2020-02-21-archiving-city-project-part-1/</link>
       <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2020-02-21-archiving-city-project-part-1/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2020-02-21-archiving-city-project-part-1/</guid>
       <description>&lt;p&gt;This is one of the assignments done for the course &lt;em&gt;&amp;ldquo;Interrogating the Archive: Preserving and Interpreting Knowledges of the Past&amp;rdquo;&lt;/em&gt; I took during my Master&amp;rsquo;s. It kinda serves as a trivia of Helsinki&amp;rsquo;s city, and a travel guide for history nerds looking for off-the-beaten-track ways to look at Helsinki. And one of the most enjoyable assignment I did during the 2 years.&lt;/p&gt;
 &lt;p&gt;Special Thanks to Juhana Aunesluoma (University of Helsinki), Mary Jo Maynes (University of Minnesota), Leslie Morris (University of Minnesota), and Hilde Hoffmann (Ruhr-University Bochum, for hosting the tri-university seminar, and all the fellow students in the course that made the inquiry so much more fun.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Archiving City Project - Part 2</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2020-02-21-archiving-city-project-part-2/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2020-02-21-archiving-city-project-part-2/</link>
       <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2020-02-21-archiving-city-project-part-2/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2020-02-21-archiving-city-project-part-2/</guid>
       <description>&lt;p&gt;Part 2 of the Archiving the City Project, which is about Landscape forgotten, but embedded in the cityscape through monuments.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;landscape-forgotten&#34;&gt;Landscape Forgotten&lt;/h3&gt;
@@ -562,9 +571,9 @@ aria-hidden=&#34;true&#34;&gt;極度乾燥しなさいVER2.0Archive/post/2022/06
     </item>
     <item>
       <title>Connecting the Conflicting Worlds - Reverse-engineering Yurikuma Arashi</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2020-02-20-connecting-the-conflicting-worlds-reverse-engineering-yurikuma-arashi/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2020-02-20-connecting-the-conflicting-worlds-reverse-engineering-yurikuma-arashi/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2020-02-20-connecting-the-conflicting-worlds-reverse-engineering-yurikuma-arashi/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2020-02-20-connecting-the-conflicting-worlds-reverse-engineering-yurikuma-arashi/</guid>
       <description>&lt;p&gt;Reflection on Yurikuma to make sense of KolmeLautasta Sarazanmai&lt;/p&gt;
 &lt;p&gt;Desucon Frostbite 2020でやったレクチャー。これも上げ忘れていたので上げておく。動画は一度角川に侵害フラグを立てられたようだが正しく引用のためにファアユースにこれ以上ないほど則った内容なので今はDesucon公式にて復旧している。&lt;/p&gt;
 &lt;p&gt;幾原邦彦という監督の作品は「時代意識」が非常に強いというところからスタートして、歴史学・国際関係論をかじったものとして『ユリ熊嵐』がどう見えるか、というところを分析したレクチャープログラム。さらざんまいの理解への助けにならんか、と思ってやったけど未だに分からない。&lt;/p&gt;
@@ -573,9 +582,9 @@ aria-hidden=&#34;true&#34;&gt;極度乾燥しなさいVER2.0Archive/post/2022/06
     </item>
     <item>
       <title>スオメンリンナを囲む要塞Krepost Sveaborg―バタフライエフェクト・沈黙・重なり合う廃墟</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2020-02-20-%E3%82%B9%E3%82%AA%E3%83%A1%E3%83%B3%E3%83%AA%E3%83%B3%E3%83%8A%E3%82%92%E5%9B%B2%E3%82%80%E8%A6%81%E5%A1%9Ekrepost-sveaborg%E3%83%90%E3%82%BF%E3%83%95%E3%83%A9%E3%82%A4%E3%82%A8%E3%83%95/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2020-02-20-%E3%82%B9%E3%82%AA%E3%83%A1%E3%83%B3%E3%83%AA%E3%83%B3%E3%83%8A%E3%82%92%E5%9B%B2%E3%82%80%E8%A6%81%E5%A1%9Ekrepost-sveaborg%E3%83%90%E3%82%BF%E3%83%95%E3%83%A9%E3%82%A4%E3%82%A8%E3%83%95/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2020-02-20-%E3%82%B9%E3%82%AA%E3%83%A1%E3%83%B3%E3%83%AA%E3%83%B3%E3%83%8A%E3%82%92%E5%9B%B2%E3%82%80%E8%A6%81%E5%A1%9Ekrepost-sveaborg%E3%83%90%E3%82%BF%E3%83%95%E3%83%A9%E3%82%A4%E3%82%A8%E3%83%95/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2020-02-20-%E3%82%B9%E3%82%AA%E3%83%A1%E3%83%B3%E3%83%AA%E3%83%B3%E3%83%8A%E3%82%92%E5%9B%B2%E3%82%80%E8%A6%81%E5%A1%9Ekrepost-sveaborg%E3%83%90%E3%82%BF%E3%83%95%E3%83%A9%E3%82%A4%E3%82%A8%E3%83%95/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://sanmagumo.info/&#34;&gt;さんま雲&lt;/a&gt;さんところで書いた『&lt;a href=&#34;https://sanmagumo.booth.pm/items/1172263&#34;&gt;スオミリマガジン2018&lt;/a&gt;』に寄稿したヘルシンキの世界遺産であるスオメンリンナ島のあまり触れられないロシア統治時代の歴史と島を中心にヘルシンキを取り囲むように整備された要塞線の全容について書いた記事であります。掲載許可が出たので上げておく。&lt;/p&gt;
 &lt;p&gt;本当は「ヘルシンキの有名観光地全部ブッチして歴史オタクに特化した観光ガイド書こうぜ企画」という思いつきの第一弾の予定であった。修士の授業でやった「都市のアーカイビング」課題が元になっております。本誌で使用したイラストの代わりに写真とWikimedia Commonsからの地図を使っている。&lt;/p&gt;
 &lt;hr&gt;
@@ -669,9 +678,9 @@ aria-hidden=&#34;true&#34;&gt;極度乾燥しなさいVER2.0Archive/post/2022/06
     </item>
     <item>
       <title>天気の子 First Impression</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2020-02-20-%E5%A4%A9%E6%B0%97%E3%81%AE%E5%AD%90-first-impression/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2020-02-20-%E5%A4%A9%E6%B0%97%E3%81%AE%E5%AD%90-first-impression/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2020-02-20-%E5%A4%A9%E6%B0%97%E3%81%AE%E5%AD%90-first-impression/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2020-02-20-%E5%A4%A9%E6%B0%97%E3%81%AE%E5%AD%90-first-impression/</guid>
       <description>&lt;p&gt;新海誠の『天気の子』のファーストインプレッションを9月に書いたまま放置していたのを半年経った今、フィンランドでの先行上映を見たあとに思い出したので上げておくことにする。一部足りていない部分、先行上映を機に思ったことはこのあとまとめることにする。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;半ば衝動的に帰国した理由の1つであった新海誠最新作『天気の子』。帰国して真っ先に見た感想を記録しておこうかなと思う。&lt;/p&gt;
@@ -719,9 +728,9 @@ aria-hidden=&#34;true&#34;&gt;極度乾燥しなさいVER2.0Archive/post/2022/06
     </item>
     <item>
       <title>『蓮李乃朶』レビュー in シベリア鉄道</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2020-01-02-%E8%93%AE%E6%9D%8E%E4%B9%83%E6%9C%B6%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC-in-%E3%82%B7%E3%83%99%E3%83%AA%E3%82%A2%E9%89%84%E9%81%93/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2020-01-02-%E8%93%AE%E6%9D%8E%E4%B9%83%E6%9C%B6%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC-in-%E3%82%B7%E3%83%99%E3%83%AA%E3%82%A2%E9%89%84%E9%81%93/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2020-01-02-%E8%93%AE%E6%9D%8E%E4%B9%83%E6%9C%B6%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC-in-%E3%82%B7%E3%83%99%E3%83%AA%E3%82%A2%E9%89%84%E9%81%93/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2020-01-02-%E8%93%AE%E6%9D%8E%E4%B9%83%E6%9C%B6%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC-in-%E3%82%B7%E3%83%99%E3%83%AA%E3%82%A2%E9%89%84%E9%81%93/</guid>
       <description>&lt;p&gt;以下は図書屋he-suke氏作の『蓮李乃朶』をシベリア鉄道車内で読んで出力されたレビューのようななにかです。ネタバレまみれなのでまず読んでほしい。&lt;/p&gt;
 &lt;figure&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.pixiv.net/artworks/67540112&#34;&gt;https://www.pixiv.net/artworks/67540112&lt;/a&gt;&lt;/p&gt;
@@ -741,9 +750,9 @@ aria-hidden=&#34;true&#34;&gt;極度乾燥しなさいVER2.0Archive/post/2022/06
     </item>
     <item>
       <title>『蓮李乃朶』を読んで書評を書いた後に出力された怪文書</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2020-01-02-%E8%93%AE%E6%9D%8E%E4%B9%83%E6%9C%B6%E3%82%92%E8%AA%AD%E3%82%93%E3%81%A7%E6%9B%B8%E8%A9%95%E3%82%92%E6%9B%B8%E3%81%84%E3%81%9F%E5%BE%8C%E3%81%AB%E5%87%BA%E5%8A%9B%E3%81%95%E3%82%8C/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2020-01-02-%E8%93%AE%E6%9D%8E%E4%B9%83%E6%9C%B6%E3%82%92%E8%AA%AD%E3%82%93%E3%81%A7%E6%9B%B8%E8%A9%95%E3%82%92%E6%9B%B8%E3%81%84%E3%81%9F%E5%BE%8C%E3%81%AB%E5%87%BA%E5%8A%9B%E3%81%95%E3%82%8C/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2020-01-02-%E8%93%AE%E6%9D%8E%E4%B9%83%E6%9C%B6%E3%82%92%E8%AA%AD%E3%82%93%E3%81%A7%E6%9B%B8%E8%A9%95%E3%82%92%E6%9B%B8%E3%81%84%E3%81%9F%E5%BE%8C%E3%81%AB%E5%87%BA%E5%8A%9B%E3%81%95%E3%82%8C/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2020-01-02-%E8%93%AE%E6%9D%8E%E4%B9%83%E6%9C%B6%E3%82%92%E8%AA%AD%E3%82%93%E3%81%A7%E6%9B%B8%E8%A9%95%E3%82%92%E6%9B%B8%E3%81%84%E3%81%9F%E5%BE%8C%E3%81%AB%E5%87%BA%E5%8A%9B%E3%81%95%E3%82%8C/</guid>
       <description>&lt;p&gt;シベリア鉄道では考えることしかなかったのでいつの間にか手書きで怪文書を出力していました。以下文字起こしですがこれは黒歴史以外のなんだろうか&amp;hellip;。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;こういう作品を（『蓮李乃朶』）読むと、ヘテロ男性である自分がF/F同性愛を描いたフィクションを楽しむということ、そういうことを楽しむ自分のある種解離したセクシュアリティについて考えざるを得なくなる。&lt;/p&gt;
@@ -767,9 +776,9 @@ aria-hidden=&#34;true&#34;&gt;極度乾燥しなさいVER2.0Archive/post/2022/06
     </item>
     <item>
       <title>アイドルマスターと関係性記述的な「原作」（百合の話その２）</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2019-06-30-%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%A8%E9%96%A2%E4%BF%82%E6%80%A7%E8%A8%98%E8%BF%B0%E7%9A%84%E3%81%AA%E5%8E%9F%E4%BD%9C%E7%99%BE/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2019-06-30-%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%A8%E9%96%A2%E4%BF%82%E6%80%A7%E8%A8%98%E8%BF%B0%E7%9A%84%E3%81%AA%E5%8E%9F%E4%BD%9C%E7%99%BE/</link>
       <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2019-06-30-%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%A8%E9%96%A2%E4%BF%82%E6%80%A7%E8%A8%98%E8%BF%B0%E7%9A%84%E3%81%AA%E5%8E%9F%E4%BD%9C%E7%99%BE/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2019-06-30-%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%A8%E9%96%A2%E4%BF%82%E6%80%A7%E8%A8%98%E8%BF%B0%E7%9A%84%E3%81%AA%E5%8E%9F%E4%BD%9C%E7%99%BE/</guid>
       <description>&lt;h3 id=&#34;tldr-新世代のアイマスipとしてシャイニーカラーズはソシャゲ発展の一つのマイルストーンであり機器的制約がコンテンツを定義するという流れまた関係性記述的になる原作という2つの証明である&#34;&gt;TL;DR 新世代のアイマスIPとしてシャイニーカラーズはソシャゲ発展の一つのマイルストーンであり、機器的制約がコンテンツを定義するという流れ、また関係性記述的になる原作という2つの証明である。&lt;/h3&gt;
 &lt;p&gt;注：一部の話は前編であるところの&lt;a href=&#34;https://walterinsect.wordpress.com/2019/06/30/%e4%ba%8c%e6%ac%a1%e5%89%b5%e4%bd%9c%e5%8f%b2%e3%81%a8%e3%82%bd%e3%82%b7%e3%83%a3%e3%82%b2%e3%83%bc%ef%bc%9afrostbite%e3%81%a7%e3%81%ae%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3%e3%81%ae%e6%8a%84%e8%a8%b3/&#34;&gt;二次創作とソシャゲの話&lt;/a&gt;を読まないと分かりづらいかと思いますが、アイマス界隈の人であれば多分読まなくても話が通じると思います。最低限「関係性記述的＝百合・BL、画面サイズがコンテンツを定義する説、二次創作的になる原作」という3つを頭の片隅に入れていただければ。端的に言えば前編が理論、後編が応用という感じです。&lt;/p&gt;
 &lt;h3 id=&#34;新しいアイドルマスター&#34;&gt;「新しい」アイドルマスター&lt;/h3&gt;
@@ -813,9 +822,9 @@ alt=&#34;ãå·å³¶çæ¨¹SSRãã®ç»åæ¤ç´¢ç
     </item>
     <item>
       <title>二次創作史とソシャゲー：Frostbiteでのプレゼンの抄訳＋α（百合の話その1）</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2019-06-30-%E4%BA%8C%E6%AC%A1%E5%89%B5%E4%BD%9C%E5%8F%B2%E3%81%A8%E3%82%BD%E3%82%B7%E3%83%A3%E3%82%B2%E3%83%BCfrostbite%E3%81%A7%E3%81%AE%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%81%AE%E6%8A%84%E8%A8%B3/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2019-06-30-%E4%BA%8C%E6%AC%A1%E5%89%B5%E4%BD%9C%E5%8F%B2%E3%81%A8%E3%82%BD%E3%82%B7%E3%83%A3%E3%82%B2%E3%83%BCfrostbite%E3%81%A7%E3%81%AE%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%81%AE%E6%8A%84%E8%A8%B3/</link>
       <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2019-06-30-%E4%BA%8C%E6%AC%A1%E5%89%B5%E4%BD%9C%E5%8F%B2%E3%81%A8%E3%82%BD%E3%82%B7%E3%83%A3%E3%82%B2%E3%83%BCfrostbite%E3%81%A7%E3%81%AE%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%81%AE%E6%8A%84%E8%A8%B3/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2019-06-30-%E4%BA%8C%E6%AC%A1%E5%89%B5%E4%BD%9C%E5%8F%B2%E3%81%A8%E3%82%BD%E3%82%B7%E3%83%A3%E3%82%B2%E3%83%BCfrostbite%E3%81%A7%E3%81%AE%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%81%AE%E6%8A%84%E8%A8%B3/</guid>
       <description>&lt;h2 id=&#34;tldr&#34;&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;&lt;/h2&gt;
 &lt;h2 id=&#34;ソシャゲは無限物語生成の仕組みでありadvから発展しているそれらは構造的に都合がいいので関係性記述的ie百合blな作品が多くなる&#34;&gt;&lt;strong&gt;ソシャゲは無限物語生成の仕組みであり、ADVから発展している。それらは構造的に都合がいいので関係性記述的（i.e. 百合、BL）な作品が多くなる。&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt; &lt;/p&gt;
@@ -846,17 +855,17 @@ alt=&#34;ãå·å³¶çæ¨¹SSRãã®ç»åæ¤ç´¢ç
     </item>
     <item>
       <title>Sarazanmai Ep.1</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2019-04-17-sarazanmai-ep-1/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2019-04-17-sarazanmai-ep-1/</link>
       <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2019-04-17-sarazanmai-ep-1/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2019-04-17-sarazanmai-ep-1/</guid>
       <description>&lt;p&gt;Preliminary reaction to Sarazanmai Ep1. Have not watched Sub, so terms might differ.&lt;/p&gt;
 &lt;p&gt;Probably what I am seeing here is the privacy=self-defining=what it is to be yourself in the internet age. The desire dimension of Asakusa is basically a motif based on cyberspace, where desires of the users are designed to be enhanced. Before the premier, I thought SNS would come in, and it is probably right, seeing the apps motif and all. Just that it was not the core in the first episode. Probably the next one.&lt;/p&gt;</description>
     </item>
     <item>
       <title>翻訳するということ、または概念的な敏感さ</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2019-03-10-%E7%BF%BB%E8%A8%B3%E3%81%99%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E3%81%93%E3%81%A8%E3%81%BE%E3%81%9F%E3%81%AF%E6%A6%82%E5%BF%B5%E7%9A%84%E3%81%AA%E6%95%8F%E6%84%9F%E3%81%95/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2019-03-10-%E7%BF%BB%E8%A8%B3%E3%81%99%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E3%81%93%E3%81%A8%E3%81%BE%E3%81%9F%E3%81%AF%E6%A6%82%E5%BF%B5%E7%9A%84%E3%81%AA%E6%95%8F%E6%84%9F%E3%81%95/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2019-03-10-%E7%BF%BB%E8%A8%B3%E3%81%99%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E3%81%93%E3%81%A8%E3%81%BE%E3%81%9F%E3%81%AF%E6%A6%82%E5%BF%B5%E7%9A%84%E3%81%AA%E6%95%8F%E6%84%9F%E3%81%95/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2019-03-10-%E7%BF%BB%E8%A8%B3%E3%81%99%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E3%81%93%E3%81%A8%E3%81%BE%E3%81%9F%E3%81%AF%E6%A6%82%E5%BF%B5%E7%9A%84%E3%81%AA%E6%95%8F%E6%84%9F%E3%81%95/</guid>
       <description>&lt;p&gt;翻訳はもうそろそろ5年くらいやっているけど思ったことがいくつもあるので記録しておこうと思う。バイリンガルとして話すということともちょっと違うんだな。&lt;/p&gt;
 &lt;p&gt;ついこの間、ある機会に「あなたにとって翻訳とはどんなものか」と聞かれて出した答えが自分でも納得できるもので、ある程度共感してもらえたのが嬉しかったのが実際の動機。&lt;/p&gt;
 &lt;p&gt;**「翻訳とはSLの言葉から余分なものを削ぎ落として、概念レベルに蒸留した後、TLで一番近い味の概念に変換して肉付けする作業である」**と自分は言ったのだけれど、質問者に面白いといってもらえた。同業者だったので自分でも使うわ、と言われた。&lt;/p&gt;
@@ -876,18 +885,18 @@ alt=&#34;ãå·å³¶çæ¨¹SSRãã®ç»åæ¤ç´¢ç
     </item>
     <item>
       <title>Desucon Frostbite 2019: What is Canon these days?</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2019-02-24-desucon-frostbite-2019-what-is-canon-these-days/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2019-02-24-desucon-frostbite-2019-what-is-canon-these-days/</link>
       <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2019-02-24-desucon-frostbite-2019-what-is-canon-these-days/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2019-02-24-desucon-frostbite-2019-what-is-canon-these-days/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://walterinsect.files.wordpress.com/2019/02/what-is-canon-these-days.pdf&#34; title=&#34;What is canon these days&#34;&gt;What is canon these days&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;My slides from the Desucon Frostbite 2019. I absolutely loved working on it, more so than my main things to do (like thesis).&lt;/p&gt;
 &lt;p&gt;Main stuff is about doujinshi landscape in Japan in three parts; history, change in canon structure and tools.  Essentially my argument was that media mix went far and canons are now changing its shape. Doujinshi has been a thing, but the boom could be explained by this phenomenon, accelerated by the proliferation of tools and forums as catalysts.&lt;/p&gt;</description>
     </item>
     <item>
       <title>DesuTalk 2018: Animecon in Japan - Is That Even a Thing?</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2019-02-17-desutalk-2018-animecon-in-japan-is-that-even-a-thing/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2019-02-17-desutalk-2018-animecon-in-japan-is-that-even-a-thing/</link>
       <pubDate>Sun, 17 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2019-02-17-desutalk-2018-animecon-in-japan-is-that-even-a-thing/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2019-02-17-desutalk-2018-animecon-in-japan-is-that-even-a-thing/</guid>
       <description>&lt;p&gt;忘れていたので上げておく。去年の秋にやったDesuTalkでのプレゼン。アニメコン運営がやってるTEDTalk的なイベントでした。200人位いたのかな。アイドルアニメとか漫画史などの面白そうなプレゼン（フィンランド語）と合わせて発表さしてもらいました。&lt;/p&gt;
 &lt;p&gt;全体的には日本におけるアニメイベントをフィンランドの聴衆向けに説明して、一体フィンランドのイベントとどのように違うのか、というのを果たしている機能面での比較を行う形でプレゼンしました。まあ自分の視野が狭いので本当にイントロダクションに過ぎないものだったけれど割と反応が良かった。ファンの活動に関してはやっぱり言語障壁が高いのかな、という印象を受けた。&lt;/p&gt;
 &lt;hr&gt;
@@ -896,9 +905,9 @@ alt=&#34;ãå·å³¶çæ¨¹SSRãã®ç»åæ¤ç´¢ç
     </item>
     <item>
       <title>ペンギン・ハイウェイの素晴らしさ　ー人生は研究である</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2018-09-28-%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4%E3%81%AE%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%95-%E3%83%BC%E4%BA%BA%E7%94%9F%E3%81%AF%E7%A0%94/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2018-09-28-%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4%E3%81%AE%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%95-%E3%83%BC%E4%BA%BA%E7%94%9F%E3%81%AF%E7%A0%94/</link>
       <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2018-09-28-%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4%E3%81%AE%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%95-%E3%83%BC%E4%BA%BA%E7%94%9F%E3%81%AF%E7%A0%94/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2018-09-28-%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4%E3%81%AE%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%95-%E3%83%BC%E4%BA%BA%E7%94%9F%E3%81%AF%E7%A0%94/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=N4w5pKu78sQ&#34;&gt;ペンギン・ハイウェイ予告&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;夏休みといえばすべての小学生が（宿題以外の）しがらみもなく遊べる一番長い休みであり、日本の夏の風景の一部にこの「夏休み」というテーマは不可分となっている。「ぼく夏」などのあの時間制限を伴った楽しみはすでにそれを失ってしまった大人たちにはノスタルジーを感じさせる。&lt;/p&gt;
 &lt;p&gt;夏休みはそういったモチーフを持った「夏休み映画」が公開される時期でもある。今年特に素晴らしかったのは「ペンギン・ハイウェイ」だった。京都を舞台にした怪異とアホ大学生が入り交じる作品で有名な森見登美彦がそのどちらの舞台設定も使わずに書いた同名の作品が原作のこのアニメは本当に素晴らしかった。&lt;/p&gt;
@@ -915,18 +924,18 @@ alt=&#34;ãå·å³¶çæ¨¹SSRãã®ç»åæ¤ç´¢ç
     </item>
     <item>
       <title>&#34;Outo finranndoboo:n essee&#34; tai miksi minä olen suomessa.</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2018-09-23-outo-finranndoboon-essee-tai-miksi-mina-olen-suomessa/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2018-09-23-outo-finranndoboon-essee-tai-miksi-mina-olen-suomessa/</link>
       <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2018-09-23-outo-finranndoboon-essee-tai-miksi-mina-olen-suomessa/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2018-09-23-outo-finranndoboon-essee-tai-miksi-mina-olen-suomessa/</guid>
       <description>&lt;p&gt;(Minä en muista mitään kielioppia, siis tämä on täynnä virheitä. Tämä on paskan opiskelijan yritys kirjoittaa suomeksi. Käytän sanakirjan ja Google Translate. Niin minä olen paska opiskelija.)&lt;/p&gt;
 &lt;p&gt;Minä tulin japanista suomeen viime vuonna. Olen Helsingin Yliopistossa Euroopan ja pohjoismaiden tutkimuksen maisteriohjelmassa. 7800 kilometrin päässä, 10 tunnin matka.&lt;/p&gt;
 &lt;p&gt;Mutta miksi tulemaan suomeen ja opiskella? Minä olen pakko maksaa lukukausimaksu (paljon ansiosta minun perheelle) ja opiskelemaan maisteriohjelmassa suomessa ei ole tavallinen japanilainen opiskelijan ura. Suomi on kuuluisa tosi kylmä talvi, muumi, ja salmiakki (ja ralli ja &amp;ldquo;rikkoutumaton&amp;rdquo; Nokia ja niin edelleen). Pidänkö minä Marimekosta tai Ittalasta? Alva Aaltosta? Täydellinen suomalainen opetus- ja hyvinvointipolitiikasta? (kuin monet japanilaiset?)&lt;/p&gt;</description>
     </item>
     <item>
       <title>「なんでフィンランド史なのよ？」という話ー過去と向き合う</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2018-09-18-%E3%81%AA%E3%82%93%E3%81%A7%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E5%8F%B2%E3%81%AA%E3%81%AE%E3%82%88%E3%81%A8%E3%81%84%E3%81%86%E8%A9%B1%E3%83%BC%E9%81%8E/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2018-09-18-%E3%81%AA%E3%82%93%E3%81%A7%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E5%8F%B2%E3%81%AA%E3%81%AE%E3%82%88%E3%81%A8%E3%81%84%E3%81%86%E8%A9%B1%E3%83%BC%E9%81%8E/</link>
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2018-09-18-%E3%81%AA%E3%82%93%E3%81%A7%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E5%8F%B2%E3%81%AA%E3%81%AE%E3%82%88%E3%81%A8%E3%81%84%E3%81%86%E8%A9%B1%E3%83%BC%E9%81%8E/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2018-09-18-%E3%81%AA%E3%82%93%E3%81%A7%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E5%8F%B2%E3%81%AA%E3%81%AE%E3%82%88%E3%81%A8%E3%81%84%E3%81%86%E8%A9%B1%E3%83%BC%E9%81%8E/</guid>
       <description>&lt;p&gt;（承前）&lt;/p&gt;
 &lt;p&gt;さて、なんでフィンランド史、それも冬戦争と継続戦争なのか。それはもちろん面白いからである。というだけでは何も言っていないのと変わりがないのでもう少し言葉を尽くした説明をしようかな、というのがこの記事である。&lt;/p&gt;
 &lt;p&gt;まずそもそもこの記事を書いている理由は、課題で修論の研究計画をそろそろ作らねばならんというところで、そこには多分書く余地がない「私がなぜこんなトピックをやりたいのか」という個人レベルでのRationaleを残しておきたいからである（研究計画そのものをやりたくないから、というのもある）。前の記事で過去を長ったらしく説明したのは「なぜ歴史が好きなのか」というところを明らかにしておきたかったから。それを踏まえて「なぜフィンランド史なんていうトピックで修士をやろうという突飛なことをしたいのか」に入るのがこちらの記事になる。日本にいたときも、こっちに来てからも「なんでそんなことやろうと思ったの？」と聞かれることが多いというのもあるが。特にこっちに来てからはフィンランド人に、1)（彼らの中ではマイナーだと思っている）フィンランドとかいう国の歴史を、2）よくわからない日本人が、3）地球の反対側からわざわざこちらに修士のためだけに渡航してきた、というあたりからとても驚かれることが多い。&lt;/p&gt;
@@ -943,9 +952,9 @@ alt=&#34;ãå·å³¶çæ¨¹SSRãã®ç»åæ¤ç´¢ç
     </item>
     <item>
       <title>「なんでフィンランド史なのよ？」という話ーどこから来たのか</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2018-09-17-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E5%8F%B2%E3%81%AF%E9%9D%A2%E7%99%BD%E3%81%84%E3%82%82%E3%81%97%E3%81%8F%E3%81%AF%E8%87%AA%E5%88%86%E3%81%AE%E9%81%8E%E5%8E%BB%E3%81%A8/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2018-09-17-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E5%8F%B2%E3%81%AF%E9%9D%A2%E7%99%BD%E3%81%84%E3%82%82%E3%81%97%E3%81%8F%E3%81%AF%E8%87%AA%E5%88%86%E3%81%AE%E9%81%8E%E5%8E%BB%E3%81%A8/</link>
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2018-09-17-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E5%8F%B2%E3%81%AF%E9%9D%A2%E7%99%BD%E3%81%84%E3%82%82%E3%81%97%E3%81%8F%E3%81%AF%E8%87%AA%E5%88%86%E3%81%AE%E9%81%8E%E5%8E%BB%E3%81%A8/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2018-09-17-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E5%8F%B2%E3%81%AF%E9%9D%A2%E7%99%BD%E3%81%84%E3%82%82%E3%81%97%E3%81%8F%E3%81%AF%E8%87%AA%E5%88%86%E3%81%AE%E9%81%8E%E5%8E%BB%E3%81%A8/</guid>
       <description>&lt;p&gt;私の好きなものの両輪は突き詰めると「百合二次創作」と「歴史」になるんだと思うけれどまとまって百合の方は書いたけれどなぜ好きなのか書いたことはなかった気がするのでまとめておきたい。&lt;/p&gt;
 &lt;p&gt;そもそも歴史に足を踏み入れる前に私はミリオタで、装備から戦史に入った人間である。小5くらいだったか。陸自基地の近くに住んでいたのも大きかった気がする。初めて歴史をリサーチしようとした（した、ではない）のは小6自由研究での特別攻撃ネタの拙いレポート。今見れば稚拙極まりないしほぼWikiのコピーであるので読めたものではないが、あとへの方向性がすでにこのへんから発生している気がする。&lt;/p&gt;
 &lt;p&gt;ただ歴史方面に興味が出だしたのが中学時代、入口はまとめブログ、それもいわゆるネトウヨ系の思想に染まった数々。そもそもの興味であった太平洋戦争方面を調べるとそういうところに行き着くような全盛期だったわけで。時は中2、オランダに移りインター校という「アウェー」な環境で嫌でも自分の「日本人性」と向き合わねばならない生活。そういうブログ記事にハマっていった。中2病とネトウヨ思想を混ぜ合わせたネトウヨの完成である。陰謀論めいた反中反韓思想を信じ、歴史により興味が出た。&lt;/p&gt;
@@ -972,9 +981,9 @@ alt=&#34;ãå·å³¶çæ¨¹SSRãã®ç»åæ¤ç´¢ç
     </item>
     <item>
       <title>The Changes of Historiographical Debate Regarding Finnish-Soviet Wars Between 1945 and Today</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2018-09-16-the-changes-of-historiographical-debate-regarding-finnish-soviet-wars-between-1945-and-today/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2018-09-16-the-changes-of-historiographical-debate-regarding-finnish-soviet-wars-between-1945-and-today/</link>
       <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2018-09-16-the-changes-of-historiographical-debate-regarding-finnish-soviet-wars-between-1945-and-today/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2018-09-16-the-changes-of-historiographical-debate-regarding-finnish-soviet-wars-between-1945-and-today/</guid>
       <description>&lt;p&gt;卒論を上げるのを忘れていたので上げてみる。黒歴史確定ではあるんだけども。ものは英語なので和文抄訳だけ記事にコピー。読みたい暇人はダウンロードすればいいんじゃないかな。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://walterinsect.files.wordpress.com/2018/09/senior-thesis-public-ver.pdf&#34; title=&#34;Senior Thesis (public ver)&#34;&gt;Senior Thesis (public ver)&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -989,9 +998,9 @@ alt=&#34;ãå·å³¶çæ¨¹SSRãã®ç»åæ¤ç´¢ç
     </item>
     <item>
       <title>百合が好き、ということ。</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2018-06-13-%E7%99%BE%E5%90%88%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A8%E3%81%84%E3%81%86%E3%81%93%E3%81%A8/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2018-06-13-%E7%99%BE%E5%90%88%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A8%E3%81%84%E3%81%86%E3%81%93%E3%81%A8/</link>
       <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2018-06-13-%E7%99%BE%E5%90%88%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A8%E3%81%84%E3%81%86%E3%81%93%E3%81%A8/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2018-06-13-%E7%99%BE%E5%90%88%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A8%E3%81%84%E3%81%86%E3%81%93%E3%81%A8/</guid>
       <description>&lt;p&gt;私はどんな百合が好きなんだろうか。&lt;/p&gt;
 &lt;p&gt;いつの間にか百合ばかりあさっている自分がいた。記憶が曖昧なので自分の思考記録であるTwitterのログをあさってみたら最初にこの言葉を使っているのが2011年、アニメ見だしてしばらく経っているので概念をすでに知っていたようである。（問題はコレに言及した際に見ていたのが輪るピングドラムなので幾原邦彦に人生を狂わされていった説があることである。）&lt;/p&gt;
 &lt;p&gt;「幾原が私の人生狂わせた説」はともかくとして、その頃からジャンルを認識していたのは間違いないが、いつから好きだったのか覚えていない。2011年から2013年にかけてまどマギ（杏さや・まどほむ）、ストライクウィッチーズ（当然エイラーニャ）、ゆるゆり、恋愛ラボ（こいつに関しては裏切られたが&amp;hellip;）あたりが強烈な印象を残していた思い出がある。道は着々と舗装されていたのである。&lt;/p&gt;
@@ -1020,9 +1029,9 @@ alt=&#34;ãå·å³¶çæ¨¹SSRãã®ç»åæ¤ç´¢ç
     </item>
     <item>
       <title>二次創作と私、もしくはオタク履歴書</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2018-03-21-%E4%BA%8C%E6%AC%A1%E5%89%B5%E4%BD%9C%E3%81%A8%E7%A7%81%E3%82%82%E3%81%97%E3%81%8F%E3%81%AF%E3%82%AA%E3%82%BF%E3%82%AF%E5%B1%A5%E6%AD%B4%E6%9B%B8/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2018-03-21-%E4%BA%8C%E6%AC%A1%E5%89%B5%E4%BD%9C%E3%81%A8%E7%A7%81%E3%82%82%E3%81%97%E3%81%8F%E3%81%AF%E3%82%AA%E3%82%BF%E3%82%AF%E5%B1%A5%E6%AD%B4%E6%9B%B8/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2018-03-21-%E4%BA%8C%E6%AC%A1%E5%89%B5%E4%BD%9C%E3%81%A8%E7%A7%81%E3%82%82%E3%81%97%E3%81%8F%E3%81%AF%E3%82%AA%E3%82%BF%E3%82%AF%E5%B1%A5%E6%AD%B4%E6%9B%B8/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2018-03-21-%E4%BA%8C%E6%AC%A1%E5%89%B5%E4%BD%9C%E3%81%A8%E7%A7%81%E3%82%82%E3%81%97%E3%81%8F%E3%81%AF%E3%82%AA%E3%82%BF%E3%82%AF%E5%B1%A5%E6%AD%B4%E6%9B%B8/</guid>
       <description>&lt;p&gt;ここ数年、コミケや他の即売会に出向いては二次創作小説を買い込み、その感想ばかりツイッターに垂れ流している気がする。なんでそもそも二次創作を読み出したのだろう。&lt;/p&gt;
 &lt;p&gt;元来母親が本の虫みたいな人なので物語を読む、という行為に馴染みがあったが、今の読書の嗜好の大部分を占める二次創作に関してはやはり15、16歳頃が始まりだったように思う。&lt;/p&gt;
 &lt;p&gt;思い出してみれば、そもそもアニメを見始めた（いわゆる深夜アニメに手を出した）きっかけそのものが二次創作だった。当時は渡蘭の反動でPCからアクセスできる日本の情報を貪るように取り込んでいた。その中で流れ着いたのがやる夫系作品のまとめブログだったのがすべての始まりだった気がする。&lt;/p&gt;
@@ -1042,9 +1051,9 @@ alt=&#34;ãå·å³¶çæ¨¹SSRãã®ç»åæ¤ç´¢ç
     </item>
     <item>
       <title>Desuconとサバイバルフィンランド語</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2018-01-31-desucon%E3%81%A8%E3%82%B5%E3%83%90%E3%82%A4%E3%83%90%E3%83%AB%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2018-01-31-desucon%E3%81%A8%E3%82%B5%E3%83%90%E3%82%A4%E3%83%90%E3%83%AB%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E/</link>
       <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2018-01-31-desucon%E3%81%A8%E3%82%B5%E3%83%90%E3%82%A4%E3%83%90%E3%83%AB%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2018-01-31-desucon%E3%81%A8%E3%82%B5%E3%83%90%E3%82%A4%E3%83%90%E3%83%AB%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E/</guid>
       <description>&lt;p&gt;1月26日から1月28日までLahtiという街で行われたアニメコンベンション、&lt;a href=&#34;https://desucon.fi/frostbite2018/&#34;&gt;Desucon Frostbite&lt;/a&gt;に参加していました。ヘルシンキ大学のアニメクラブYamaの友人たちと参加して、3日間Lahtiに泊まりで行きました。金が無いので宿泊はイベントが確保していたLahtiの総合学校の教室、移動は徒歩とクソ安い高速バス。&lt;/p&gt;
 &lt;p&gt;当然プログラムはフィンランド語しかなく、フィンランド語学習歴6ヶ月の自分ではまともに話を聞くというふうには行かず、フィンランド人の友人たちに通訳してもらうわけにも行かないわけです。日本からのゲストのトークセッションや（今回は岡村天斎氏とDJ GENKI氏でした）麻雀コーナー、アニメ上映、物販など非フィンランド語話者でも楽しめるプログラムは多かったのですが、Desuconのプログラムの殆どはアニメ等に関するレクチャー・ワークショップで構成されているのです。&lt;/p&gt;
 &lt;p&gt;じゃあメインだし聞いてみたい、と思いGoogle翻訳の力を借りつつプログラムの説明を読み、2つに絞ってレクチャーに参加することにしたのです。アホじゃなかろうか。&lt;/p&gt;
@@ -1082,9 +1091,9 @@ alt=&#34;ãå·å³¶çæ¨¹SSRãã®ç»åæ¤ç´¢ç
     </item>
     <item>
       <title>Noken Test Opposition Movement and Hostility in International Christian University</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2017-12-11-noken-test-opposition-movement-and-hostility-in-international-christian-university-2/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2017-12-11-noken-test-opposition-movement-and-hostility-in-international-christian-university-2/</link>
       <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2017-12-11-noken-test-opposition-movement-and-hostility-in-international-christian-university-2/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2017-12-11-noken-test-opposition-movement-and-hostility-in-international-christian-university-2/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://walterinsect.files.wordpress.com/2017/12/noken.pdf&#34;&gt;Noken Test Opposition Movement and Hostility in International Christian University&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;学部時代に書いたガバガバレポートを上げて良いのか、そもそも個人情報的にアレではとかあるけどまあいいか。&lt;/p&gt;
 &lt;p&gt;どうせFBに出身大学も書いてあるしTwitter見てもバレバレなわけで。&lt;/p&gt;
@@ -1094,9 +1103,9 @@ alt=&#34;ãå·å³¶çæ¨¹SSRãã®ç»åæ¤ç´¢ç
     </item>
     <item>
       <title>フィンランド人オタクに聞いてみた</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2017-10-11-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E4%BA%BA%E3%82%AA%E3%82%BF%E3%82%AF%E3%81%AB%E8%81%9E%E3%81%84%E3%81%A6%E3%81%BF%E3%81%9F/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2017-10-11-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E4%BA%BA%E3%82%AA%E3%82%BF%E3%82%AF%E3%81%AB%E8%81%9E%E3%81%84%E3%81%A6%E3%81%BF%E3%81%9F/</link>
       <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2017-10-11-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E4%BA%BA%E3%82%AA%E3%82%BF%E3%82%AF%E3%81%AB%E8%81%9E%E3%81%84%E3%81%A6%E3%81%BF%E3%81%9F/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2017-10-11-%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E4%BA%BA%E3%82%AA%E3%82%BF%E3%82%AF%E3%81%AB%E8%81%9E%E3%81%84%E3%81%A6%E3%81%BF%E3%81%9F/</guid>
       <description>&lt;p&gt;2017.10.11 新房昭之・シャフト関するプレゼンのあとに気になる点を聞いてみた。その結果の備忘録と個人的見解。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;ファンサービスと萌系作品に対する態度についての見解&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Q: プレゼン中でもファンサービスと萌えに関する言及があったが、これは欧米ではあまり受け入れられないものなのだろうか？&lt;/strong&gt;&lt;/p&gt;
@@ -1127,17 +1136,17 @@ alt=&#34;ãå·å³¶çæ¨¹SSRãã®ç»åæ¤ç´¢ç
     </item>
     <item>
       <title>Religious Activity Through Popular Culture Analysis on Idol Anime</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2017-03-19-religious-activity-through-popular-culture-analysis-on-idol-anime-2/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2017-03-19-religious-activity-through-popular-culture-analysis-on-idol-anime-2/</link>
       <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2017-03-19-religious-activity-through-popular-culture-analysis-on-idol-anime-2/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2017-03-19-religious-activity-through-popular-culture-analysis-on-idol-anime-2/</guid>
       <description>&lt;p&gt;退屈しきったオタク大学生はたまにこういうクソみたいなレポートを提出します。単位が来たのでいいか。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://walterinsect.files.wordpress.com/2017/10/religious-activity-through-popular-culture-analysis-on-idol-anime.pdf&#34;&gt;Religious Activity Through Popular Culture Analysis on Idol Anime&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>感想：虐殺器官</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2017-02-05-41/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2017-02-05-41/</link>
       <pubDate>Sun, 05 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2017-02-05-41/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2017-02-05-41/</guid>
       <description>&lt;p&gt;Project Itoh3作目である虐殺器官を見たときの感想。&lt;/p&gt;
 &lt;p&gt;そもそもスタジオ倒産という事件のあとにリカバーして制作されたものであった上、他2作と時間も空いてしまって色々と懸念があったが、それなりに期待して待っていた作品である。&lt;/p&gt;
 &lt;p&gt;ようやく公開日を迎え、新宿で鑑賞した。&lt;/p&gt;
@@ -1170,9 +1179,9 @@ alt=&#34;ãå·å³¶çæ¨¹SSRãã®ç»åæ¤ç´¢ç
     </item>
     <item>
       <title>深夜の妄想</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2016-05-01-%E6%B7%B1%E5%A4%9C%E3%81%AE%E5%A6%84%E6%83%B3/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2016-05-01-%E6%B7%B1%E5%A4%9C%E3%81%AE%E5%A6%84%E6%83%B3/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2016-05-01-%E6%B7%B1%E5%A4%9C%E3%81%AE%E5%A6%84%E6%83%B3/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2016-05-01-%E6%B7%B1%E5%A4%9C%E3%81%AE%E5%A6%84%E6%83%B3/</guid>
       <description>&lt;p&gt;深夜にアイドルに似合いそうな酒と銃を考えていた。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;卯月：ピーチリキュール系のカクテル、銃は思いつかない、小口径のリボルバーかなあ&lt;/p&gt;
@@ -1195,9 +1204,9 @@ alt=&#34;ãå·å³¶çæ¨¹SSRãã®ç»åæ¤ç´¢ç
     </item>
     <item>
       <title>深夜３時のかえみゆ</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2016-03-15-%E6%B7%B1%E5%A4%9C%EF%BC%93%E6%99%82%E3%81%AE%E3%81%8B%E3%81%88%E3%81%BF%E3%82%86/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2016-03-15-%E6%B7%B1%E5%A4%9C%EF%BC%93%E6%99%82%E3%81%AE%E3%81%8B%E3%81%88%E3%81%BF%E3%82%86/</link>
       <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2016-03-15-%E6%B7%B1%E5%A4%9C%EF%BC%93%E6%99%82%E3%81%AE%E3%81%8B%E3%81%88%E3%81%BF%E3%82%86/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2016-03-15-%E6%B7%B1%E5%A4%9C%EF%BC%93%E6%99%82%E3%81%AE%E3%81%8B%E3%81%88%E3%81%BF%E3%82%86/</guid>
       <description>&lt;p&gt;街の喧騒もなりを潜め、時折通る車が遠くに走り去るのを遠くに聞きながら、私は頬杖をついて卓上ライトに照らされたノートを見つめた。 書き直しと入れ替えと消しゴムのあとで埋まったそれを眺めても、嵌りそうな言葉はちっとも思いつかない。 後ろで眠るあなたを起こさないように、と下に向けたライトを調節して、なんで思いつかないんだろう、なんて思いながら似合わないのにペンを耳に挟んだりして。&lt;/p&gt;
 &lt;p&gt;ぽろっと手から離れたペンは思ったより大きな音を立てて着地を決め、心臓が揺れた。 やってしまった&amp;hellip;と思いながらデスクライトから零れる光に淡く照らされたあなたを見る。&lt;/p&gt;
 &lt;p&gt;「&amp;hellip;&amp;hellip;んっ&amp;hellip;&amp;hellip;」&lt;/p&gt;
@@ -1242,9 +1251,9 @@ alt=&#34;ãå·å³¶çæ¨¹SSRãã®ç»åæ¤ç´¢ç
     </item>
     <item>
       <title>僕は百合もハーモニーも好きだが、見たかったのはこれじゃない</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2015-11-24-%E5%83%95%E3%81%AF%E7%99%BE%E5%90%88%E3%82%82%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%8B%E3%83%BC%E3%82%82%E5%A5%BD%E3%81%8D%E3%81%A0%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%AE/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2015-11-24-%E5%83%95%E3%81%AF%E7%99%BE%E5%90%88%E3%82%82%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%8B%E3%83%BC%E3%82%82%E5%A5%BD%E3%81%8D%E3%81%A0%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%AE/</link>
       <pubDate>Tue, 24 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2015-11-24-%E5%83%95%E3%81%AF%E7%99%BE%E5%90%88%E3%82%82%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%8B%E3%83%BC%E3%82%82%E5%A5%BD%E3%81%8D%E3%81%A0%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%AE/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2015-11-24-%E5%83%95%E3%81%AF%E7%99%BE%E5%90%88%E3%82%82%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%8B%E3%83%BC%E3%82%82%E5%A5%BD%E3%81%8D%E3%81%A0%E3%81%8C%E8%A6%8B%E3%81%9F%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%AE/</guid>
       <description>&lt;p&gt;ハーモニーを見た。感想をまとめる。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;キャスティング&lt;/strong&gt; 公開前から懸念していた声優のキャスティングはむしろ問題がなかった。特に気になっていたミァハ役の上田麗奈は想定以上にはまり役であったし、アレはアレで原作を読んだ時の印象とは違うものの、ミァハという問題への一つの解であるように思う。てさぐれの時の演技の幅の広さをもっと重視して想定すべきだった。トァン役の沢城みゆきは概ね想定通り、キアン役の洲崎綾も同様に想定通り最適解で会ったように思う。その他シュタウフェンベルクやケイタ、ヌァザも良いチョイスだったように思った。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;背景&lt;/strong&gt; 映像化する際、一番楽しみであったチェチェンの山奥の要塞の雰囲気も十分で結構良い映像になっているように思う。バグダッドにしろチェチェンにしろ何かしらのロケハンなり詳細なリサーチをやったように思えた。じゃなきゃ個室のないあのトイレは出てこない。&lt;/p&gt;
@@ -1266,9 +1275,9 @@ alt=&#34;ãå·å³¶çæ¨¹SSRãã®ç»åæ¤ç´¢ç
     </item>
     <item>
       <title>デレマス24話　Barefoot girl感想ツイ</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2015-10-07-%E3%83%87%E3%83%AC%E3%83%9E%E3%82%B924%E8%A9%B1-barefoot-girl%E6%84%9F%E6%83%B3%E3%83%84%E3%82%A4/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2015-10-07-%E3%83%87%E3%83%AC%E3%83%9E%E3%82%B924%E8%A9%B1-barefoot-girl%E6%84%9F%E6%83%B3%E3%83%84%E3%82%A4/</link>
       <pubDate>Wed, 07 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2015-10-07-%E3%83%87%E3%83%AC%E3%83%9E%E3%82%B924%E8%A9%B1-barefoot-girl%E6%84%9F%E6%83%B3%E3%83%84%E3%82%A4/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2015-10-07-%E3%83%87%E3%83%AC%E3%83%9E%E3%82%B924%E8%A9%B1-barefoot-girl%E6%84%9F%E6%83%B3%E3%83%84%E3%82%A4/</guid>
       <description>&lt;p&gt;うづにゃんとうとい&lt;/p&gt;
 &lt;p&gt;24話見てそのままプロジェクト1作目を見に出かける。相変わらず思うけどデレマスアニメの恐ろしさを再確認。うづりん回だし凛ちゃんかわいいしライブシーン今までで一番気合入ってたしもうあああああってなる。&lt;/p&gt;
 &lt;p&gt;今日帰宅したらもう一回見よう&lt;/p&gt;
@@ -1288,9 +1297,9 @@ alt=&#34;ãå·å³¶çæ¨¹SSRãã®ç»åæ¤ç´¢ç
     </item>
     <item>
       <title>屍者の帝国ファーストインプレッション</title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/2015-10-07-%E5%B1%8D%E8%80%85%E3%81%AE%E5%B8%9D%E5%9B%BD%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/2015-10-07-%E5%B1%8D%E8%80%85%E3%81%AE%E5%B8%9D%E5%9B%BD%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3/</link>
       <pubDate>Wed, 07 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/2015-10-07-%E5%B1%8D%E8%80%85%E3%81%AE%E5%B8%9D%E5%9B%BD%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/2015-10-07-%E5%B1%8D%E8%80%85%E3%81%AE%E5%B8%9D%E5%9B%BD%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%82%A4%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3/</guid>
       <description>&lt;p&gt;とりあえず見てた来たのでインプレをまとめとく。帰宅後寝落ちてしまったせいで記憶が薄れかけているので分量が書けそうにない。&lt;/p&gt;
 &lt;p&gt;鑑賞後真っ先に思ったのは自分の原作理解のたりなさ、また映像化したことによる個人的なとっつきやすさ。そもそも原作のテキストをたいへん苦しみながら読んだ身としては原作以上にすんなり入ってきた印象。写実的になった分クラソートキンとアレクセイの屍者化のシーンなんかは生々しく異質で狂気を孕んだものになっていると思う。&lt;/p&gt;
 &lt;p&gt;声優陣も申し分なく違和感のない感じ。すこしワトソンとフライデーが幼いような印象も受けたが、許容範囲。はまっていたのは三木さんのアレクセイ。あとは重要人物であるハダリー、ザ・ワン、Mあたり。ハダリーはPVの時点で期待を大きくしていたがそれを裏切らないハダリーっぷりを見せてくれた花澤香菜という声優の凄さを再認識。ザ・ワンとMはなんかあそこだけ洋画吹き替えかメタルギアみたいだった。キャスティングに関してはアレ以上のものは出てこないだろうな。&lt;/p&gt;
@@ -1302,9 +1311,9 @@ alt=&#34;ãå·å³¶çæ¨¹SSRãã®ç»åæ¤ç´¢ç
     </item>
     <item>
       <title></title>
-      <link>https://walterinsect.github.io/Superreview_v3.0/posts/github%E3%81%AE%E6%80%9D%E6%83%B3%E3%81%A8%E9%9D%9Eit%E5%88%86%E9%87%8E/</link>
+      <link>http://localhost:1313/Superreview_v3.0/posts/github%E3%81%AE%E6%80%9D%E6%83%B3%E3%81%A8%E9%9D%9Eit%E5%88%86%E9%87%8E/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://walterinsect.github.io/Superreview_v3.0/posts/github%E3%81%AE%E6%80%9D%E6%83%B3%E3%81%A8%E9%9D%9Eit%E5%88%86%E9%87%8E/</guid>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/github%E3%81%AE%E6%80%9D%E6%83%B3%E3%81%A8%E9%9D%9Eit%E5%88%86%E9%87%8E/</guid>
       <description>&lt;p&gt;+++
 date = &amp;lsquo;2025-02-14T23:46:41+09:00&amp;rsquo;
 draft = false
@@ -1369,6 +1378,49 @@ Pull Requestにもコメントがあるが、これは逆に「Issueを解決す
 &lt;p&gt;これが幸せを生んでいるはずがなく、現に同僚が死にそうな顔をしているし、エキスパート部署もかなり面白い顔になってしまっている。さて、このカオスに秩序をもたらすために、GitHubの思想を応用することはできないものか。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;[[MS365環境での「Poor Man&amp;rsquo;s GitHub」を法務業務に 1]]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/Superreview_v3.0/posts/%E6%97%85%E3%81%99%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E4%BA%BA%E7%94%9F-%E3%83%BC%E3%83%9F%E3%82%A2%E3%82%AB%E3%83%B3%E3%82%AD%E3%83%9E%E3%82%AD%E6%B8%85%E5%B0%91%E7%B4%8D%E8%A8%80%E3%82%92%E6%B1%82%E3%82%81%E3%81%A6%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E3%81%8B%E3%82%89%E4%BA%AC%E9%83%BD%E3%81%B8%E3%83%BC/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Superreview_v3.0/posts/%E6%97%85%E3%81%99%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E4%BA%BA%E7%94%9F-%E3%83%BC%E3%83%9F%E3%82%A2%E3%82%AB%E3%83%B3%E3%82%AD%E3%83%9E%E3%82%AD%E6%B8%85%E5%B0%91%E7%B4%8D%E8%A8%80%E3%82%92%E6%B1%82%E3%82%81%E3%81%A6%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E3%81%8B%E3%82%89%E4%BA%AC%E9%83%BD%E3%81%B8%E3%83%BC/</guid>
+      <description>&lt;p&gt;本には読機（どっき）がある。本に出会い、それを必要なだけ寝かしておくことで、ちょうどよいときにその本の体験を味わうのがあるべき姿なのだ。本には読機と縁があって、世界をつなげるようなものに出会うことほど嬉しいことはない。結構な数の蔵書があるが、本も面白いが出会った経緯も面白いという本はこいつが一番なのではなかろうか。これはその本との出会いと縁の話。&lt;/p&gt;
+&lt;h2 id=&#34;2017年冬ー右も左も分からないけどわかる&#34;&gt;2017年冬ー右も左も分からないけどわかる&lt;/h2&gt;
+&lt;p&gt;2017年冬だったと思う。ヘルシンキにわたり、修士課程を始めたばかりだった。図書館のあるKaisataloのカフェで休憩がてらコーヒーを飲んでいた時、フィンランド語なんかほとんどできなかった自分が興味を惹かれたのが、併設の書店に並ぶ「Asijoita jotka saavat sydämen lyömään nopeammin.」のペーパーバック版だった。表紙はカラフルでどう考えても平安貴族の絵が描かれていたのが目に入る。当時はフィンランド語なんて「Moi」と「Kiitos」と「Konekivääri」しかわからないレベルだったが、絵を見ればわかる。&lt;/p&gt;
+&lt;figure&gt;
+&lt;img
+src=&#34;../%E6%97%85%E3%81%99%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E4%BA%BA%E7%94%9F%E3%80%80%E3%83%BC%E3%83%9F%E3%82%A2%E3%83%BB%E3%82%AB%E3%83%B3%E3%82%AD%E3%83%9E%E3%82%AD%E3%80%8E%E6%B8%85%E5%B0%91%E7%B4%8D%E8%A8%80%E3%82%92%E6%B1%82%E3%82%81%E3%81%A6%E3%80%81%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E3%81%8B%E3%82%89%E4%BA%AC%E9%83%BD%E3%81%B8%E3%80%8F%E3%83%BC/4d7daa808f9bea8ebf952d61a44ed03e71bb4d5e.jpg&#34;
+title=&#34;wikilink&#34; alt=&#34;97895112725021.jpg&#34; /&gt;
+&lt;figcaption aria-hidden=&#34;true&#34;&gt;97895112725021.jpg&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;タイトルの意味が全くわからなくても、開いてもなんのことかさっぱりわからなくても、遠く離れたフィンランドでも平安貴族のことで本を出すぐらいに好きな人がいるんだなと思った記憶がある。その時は珍しく著者を調べることもなく、自分の席へコーヒーを飲みに戻った。修士の諸々に追われ、課題をこなしていく毎日の中でしばらくこの本のことは忘れてしまった。&lt;/p&gt;
+&lt;h2 id=&#34;2019年秋ー嬉しい仕事再会焦燥&#34;&gt;2019年秋ー嬉しい仕事、再会、焦燥&lt;/h2&gt;
+&lt;p&gt;次にこの本に会ったのはそれから2年ほどあとの2019年秋。修士をやりながらヘルシンキの翻訳会社とフリーランスの英和翻訳者として仕事をしていた時だった。珍しくまとまったサイズの案件の依頼が来たので何も考えずに承諾し、ファイルをもらって開き、下調べを始めたのだった。
+依頼の詳細にも何に使われるかは依頼主から特に伝えられていない。いつも通り。でもファイルを見ればだいたいのことはわかってしまうのだ。受け取ったファイルにはMia Känkimäkiの名前と『The Women I think about at Night』という題名。続いたのはフィンランド語から英訳されたであろうその本の内容らしきセクションが複数書かれていた。&lt;/p&gt;
+&lt;p&gt;普段めったにこない案件だったので、作者名と元の本の内容をリサーチする。そうしたら2年前に出会った平安貴族のカバーが出てくるじゃないか。そこでようやく作者のMia Känkimäkiの名前と、Kaisataloで出会ったのが彼女の著作だったことを認識したのだった。
+&lt;img alt=&#34;Pasted image 20220831001453 1.png&#34; loading=&#34;lazy&#34; src=&#34;../%E6%97%85%E3%81%99%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E4%BA%BA%E7%94%9F%E3%80%80%E3%83%BC%E3%83%9F%E3%82%A2%E3%83%BB%E3%82%AB%E3%83%B3%E3%82%AD%E3%83%9E%E3%82%AD%E3%80%8E%E6%B8%85%E5%B0%91%E7%B4%8D%E8%A8%80%E3%82%92%E6%B1%82%E3%82%81%E3%81%A6%E3%80%81%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E3%81%8B%E3%82%89%E4%BA%AC%E9%83%BD%E3%81%B8%E3%80%8F%E3%83%BC/8541dff3fd0918c16c64424cfca0d597f58e75ac.png&#34; title=&#34;wikilink&#34;&gt;&lt;/p&gt;
+&lt;p&gt;翻訳者として元の文に愛着が持てるなら持てるだけ訳にも気合が入る。いつもは本当に短く文脈も存在しない文を日本語に訳していたので（結構Bullshitな翻訳であった）、それだけでもこの仕事は楽しかった。内容は作者の人生の中で旅をしながら考える女性たちの話で、彼女の旅の記録であり、思索のログであり、そして歴史的な旅の話だった。普段の仕事では気にしようにもできなかった和訳での女性人称代名詞や、文体に合った言葉を選び出すことができるだけでも楽しかったのに、純粋に1読者としてこの本を読んでみたいと思った。&lt;/p&gt;
+&lt;p&gt;後で考えてみればこの翻訳は、作品を日本の出版社に売り込むための資料としての訳を期待されていたんじゃないかと思う。この資料が役に立ったかどうかは未だに分からないが、今思えば自分の訳のせいで売り込みに問題があったりしたら嫌だなと思う。&lt;/p&gt;
+&lt;p&gt;暇ができたらこの本を読んでみようと思って覚えておいたのだが、その時の自分は忙しすぎ、ストレスを抱えすぎていた。修論に全てを費やし、同時に就職と滞在許可のことを考えていたら、読書どころか趣味全般のインプットが減ってしまっていて、思い出す余裕のないまま2年が経ってしまった。&lt;/p&gt;
+&lt;p&gt;その2年の間に、自分はヘルシンキでの就活のストレスと、先が見えない上にぼんやりとした命の危険と付き合わねばならない隔離生活で限界になって、フィンランドに長期で住む計画を諦め、3年続いたヘルシンキ生活にピリオドを打って東京に戻ってきたのだった。&lt;/p&gt;
+&lt;h2 id=&#34;2021年2022年ー諦めた旅ラブコールに折れた夏&#34;&gt;2021年、2022年ー諦めた旅、ラブコールに折れた夏&lt;/h2&gt;
+&lt;p&gt;次に彼女のことを思い出したのは2021年の6月。今の職場に就職後、初めてまとまったボーナスを貰って何を買おうか考えていたときだ。買っていない本、買っていないガジェット、買っていないアニメグッズを思い出していく中で、自分は日本語もそうだが英語の文学からかなり遠ざかってしまっていることに思い至った。変わらずバイリンガルな生活を送っていたのは高校時代から変わらなかったが、仕事のお硬い契約書英語ばかり食べていた自分には別のインプットが必要だと思った。
+なんとなくAmazon.co.jpで『The Women I think about at Night』を探したら英語版の在庫があったのをみてポチってしまったのだった。しかしヘルシンキ生活でダメージを負った趣味の時間のリハビリには結構長くかかってしまい、これも部屋に積んだままになってしまったのだった。
+&lt;img alt=&#34;Pasted image 20220831005207 1.png&#34; loading=&#34;lazy&#34; src=&#34;../%E6%97%85%E3%81%99%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E4%BA%BA%E7%94%9F%E3%80%80%E3%83%BC%E3%83%9F%E3%82%A2%E3%83%BB%E3%82%AB%E3%83%B3%E3%82%AD%E3%83%9E%E3%82%AD%E3%80%8E%E6%B8%85%E5%B0%91%E7%B4%8D%E8%A8%80%E3%82%92%E6%B1%82%E3%82%81%E3%81%A6%E3%80%81%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E3%81%8B%E3%82%89%E4%BA%AC%E9%83%BD%E3%81%B8%E3%80%8F%E3%83%BC/c6300138245b96a91988b6f89e6bee09999c2b69.png&#34; title=&#34;wikilink&#34;&gt;&lt;/p&gt;
+&lt;p&gt;更に時は進んで2022年6月。友人とサンシャインシティに行った時だった。短歌の世界の扉をこじ開けやがった張本人とその棚を見ていたら、「著　ミア・カンキマキ」の文字と『清少納言を求めて、フィンランドから京都へ』という邦題に目が止まってしまったのだ。
+&lt;strong&gt;&lt;img alt=&#34;Pasted image 20220831002001 1.png&#34; loading=&#34;lazy&#34; src=&#34;../%E6%97%85%E3%81%99%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E4%BA%BA%E7%94%9F%E3%80%80%E3%83%BC%E3%83%9F%E3%82%A2%E3%83%BB%E3%82%AB%E3%83%B3%E3%82%AD%E3%83%9E%E3%82%AD%E3%80%8E%E6%B8%85%E5%B0%91%E7%B4%8D%E8%A8%80%E3%82%92%E6%B1%82%E3%82%81%E3%81%A6%E3%80%81%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E3%81%8B%E3%82%89%E4%BA%AC%E9%83%BD%E3%81%B8%E3%80%8F%E3%83%BC/c3482496a917dba92604c7e8fa6ea34a75d41949.png&#34; title=&#34;wikilink&#34;&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;よくよく見れば、あの時会った作品だったのだ。こういうときに出会ってしまう本は運命的なものがあって、たとえ積読が多かろうと、手持ちが少なかろうと買ってしまうものなのである。その日は予定していた歌集ではなくて、その張本人が進める俵万智の『恋する万葉集』と、このカンキマキの邦訳を買ったのだった。この本は向こうから何度もアプローチしてきていたのを、ようやく自分が折れて買うことになった、そんな気がする。しかもこちらの方はNight Womenと違って全く内容を知らない。不思議な縁だと思った。そもそもミアもヘルシンキ大学出身なのだ。卒業した今、学科が違っても、修士の2年だけであっても、母校を同じくする同窓生として親近感が湧いた。&lt;/p&gt;
+&lt;h2 id=&#34;不思議な縁フィンエアーで9時間の旅&#34;&gt;不思議な縁、フィンエアーで9時間の旅&lt;/h2&gt;
+&lt;p&gt;この本を開くと、はじめにエピグラフを読むことになる。フェミニズム分野での大家ヴァージニア・ウルフ、フィンランドの翻訳家キュリッキ・ヴィッラ、清少納言、そしてツベタナ・クリステワの4人の著作からの引用だ。こんなところにも縁が転がっている。自分が学士課程を卒業した古巣でただ一人日本古典文学についての講義を持っていたのが、ツベタナ先生だったのである。必修から自由だった自分は、『言の葉の庭』に登場する万葉集が面白かったから、という至極単純な理由で彼女の講義を履修したのだった。癖の強いという表現ではすこし足りないくらいの人を選ぶ先生だったが、今まで古典に触れたのが『言の葉の庭』とJapaneseの授業でやった竹取物語と平家物語の那須与一の一節ぐらいだった自分には、面白い世界を開いてもらうきっかけになった。その後も専攻にこそしなかったが、選択科目として彼女の授業を何度か取ったのだった。本屋で開いてまず目にしたのが知っている先生の名前だったものだから、余計に縁を感じてしまったわけである。&lt;/p&gt;
+&lt;p&gt;この本は本当にタイトル通り、清少納言の枕草子に魅せられたミア・カンキマキが仕事も家も半ば捨てて京都で彼女の足跡をたどる話だ。仕事が嫌になり、人生に閉塞感を覚えた作者が感じるままに、筆が赴くままに京都に来てしまう話が、簡潔な文体で入ってくる。この作品は人生という旅路の話だ。&lt;/p&gt;
+&lt;p&gt;日本語がわからない立場で古典日本文学のことを調べることの難しさ、外国での生活、行き先のわからなくなる焦燥感、そして何より彼女が触れるフィンランドと日本のことの多くを自分も肌で経験してきた。エスポーやヴィヒティがどこにあるか、Erittäin Hieno Suomalainen shampooの香り（自分はTervashampooを使っていた）、リサーチにかかわる日本語とフィンランド語の壁、執筆が進まず自分を疑い始める夜のほとんどを共有できる日本語版読者はそういないだろう、そう思った。彼女の旅と自分の旅はおそらく正反対の方向に向いた同じような旅なのだ。&lt;/p&gt;
+&lt;p&gt;旅の方向が違うことでおもしろいこともある。自分は彼女の言う一般的な日本人程度にしか枕草子と平家物語のことを知らない。しかし古典の面白さがわかるようになってきた身として、知らないことを本文のミアがセイを追う速度で知っていくことがちょうどよかった。逆に、自分の母国が文脈を共有しない視点から眺めたらどう見えるのか、というところも面白い。&lt;/p&gt;
+&lt;p&gt;それに加えてミアの旅は千年前の世界を紐解く歴史研究であり、文学研究であり、文献学であり、文化への考察であり、千年ずれた現代京都でのフィールドワークなのだ。そこには史料のバイアスの問題、英語圏での研究史、翻訳文献の文献学的な旅、そして「わからないことをわかるため」の旅の話だった。「文献学的と概念史的視点から見るフィンランド二次大戦史の日本での受容」というわけのわからないトピックで修論を書いた自分の分野のお隣さんの話が面白くないわけがない。しかも研究対象の言語が満足にできない人が無謀に挑戦するという構造も同じでだ。本当に親近感が湧く。&lt;/p&gt;
+&lt;p&gt;そう思っていたら作中でいきなり2011年3月11日が来てしまうのだ。中央線の車内で本当に驚きで1度本を置いてしまったくらいだ。ミアは京都にいるため、「遠い」視点からより遠いフィンランドからの連絡と、意味の分からないニュース番組を見る。ある意味でアウトサイダーとして遠く理解の範疇外から、しかしフィンランドから見れば原発を心配をすぐしないといけないぐらい近いところでそれを経験し、不安と尚早の中でプーケットに一時「避難」するのだった。こんなところでも自分の「遠くて、近くて、アウトサイダーとして」の震災体験に近い視点での震災記憶に触れられるとは思っていなかったのだ。震災でなくても、海外で自身の健康を心配しながら次のステップについて常に考えねばならない「有事」のストレスフルな記憶は、ついこの間のことのように思い出せる。彼女もそうだったことがすぐに肌で感じることができた。&lt;/p&gt;
+&lt;p&gt;最終的に「セイ」を理解するシーンは本当に筆致が鮮やかですごく好みだったが、それ以上に同じこと、違うことをたどる旅の話であることが自分は好きなんだと思う。人生は旅なのだ。おまけに旅路にあまりにも共通点が多過ぎる。非常に面白い作品で、彼女の旅についてもっと知って見たいと思っている。幸いなことに去年買ったNight Womenの英語版が積んであるし、ようやくフィンランド語で読みたいと思える本に出会ったものだから友人からフィンランド語版を送ってもらうことにした。全部読んだらファンレターを送りたいなと思う。もう少しフィンランド語をマシにして、思いの伝わるくらいのフィンランド語で書きたい。&lt;/p&gt;
+&lt;p&gt;最初にこの本に出会ってから、東京とヘルシンキを何度も往復し、フィンランドのことを知るために日本に飛び、フィンランドに戻り、ほうほうの体でなんとか修論と諸々の課題を仕上げ、パンデミックという有事の中での不安を経験し、フィンランドでの就職を諦め、東京に戻り就職し、全く想定していない方向から短歌の世界に足を踏み入れた時、この本の「読機」がようやく来たんだろうと思う。縁が繋いで、ラブコールを送ってきた本には、やはりその時の感想をまとめておくべきだろうと思ってこの文をかいてみたのだった。&lt;/p&gt;
+&lt;p&gt;ただ出会いの経緯がNDAにかかわるものだからなかなか外に出すのが難しそうだ。5年ぐらい経ったら許してくれないかしら。&lt;/p&gt;
+&lt;p&gt;Kankimäki Mia. 2013. &lt;em&gt;Asioita Jotka Saavat Sydämen Lyömään Nopeammin&lt;/em&gt;. Helsingissä: Otava.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
