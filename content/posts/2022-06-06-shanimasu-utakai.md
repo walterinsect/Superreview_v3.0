@@ -21,21 +21,47 @@ Exterior of Metsätalo building, with visible mark left by machinegun fire
 
 </figure>
 
-
-
-
 <figure>
 
-<figcaption aria-hidden="true">utakai-sho-kaku.png</figcaption>
+![](../2022-06-06-shanimasu-utakai/utakai-doku-yui.png)
+
+<figcaption>
+
+caption
+
+</figcaption>
+
+</figure>
+
+
 </figure>
 
 <figure>
-<img src="極度乾燥しなさいVER2.0 Archive/post/2022/06/images/image.png"
-title="wikilink"
-alt="極度乾燥しなさいVER2.0Archive/post/2022/06/images/image.png" />
-<figcaption
-aria-hidden="true">極度乾燥しなさいVER2.0Archive/post/2022/06/images/image.png</figcaption>
+
+![](../2022-06-06-shanimasu-utakai/utakai-sho-kaku.png)
+
+<figcaption>
+
+caption2
+
+</figcaption>
+
 </figure>
+
+</figure>
+
+<figure>
+
+![](../2022-06-06-shanimasu-utakai/image.png)
+
+<figcaption>
+
+caption
+
+</figcaption>
+
+</figure>
+
 
 ## 書：待ち合わせ書淫の君の顔かんばせの眼鏡がんきょうキラリ映る黄紅葉
 
