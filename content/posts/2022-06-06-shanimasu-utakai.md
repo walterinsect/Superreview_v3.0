@@ -1,7 +1,7 @@
 ---
 date: 2022-06-06
 date created: "2025-02-16, 02:26:14"
-date modified: "2025-02-22, 16:28:26"
+date modified: "2025-02-22, 22:38:24"
 title: シャニマス歌会第十一回提出作解題・改稿
 ---
 
@@ -9,62 +9,25 @@ title: シャニマス歌会第十一回提出作解題・改稿
 
 https://twitter.com/Shiny_412/status/1532365642996715520
 
+------------------------------------------------------------------------
+
 <figure>
-
-![](../2020-02-21-archiving-city-project-part-1/65c2f6730e605255807e63e7cf3b6eb27b18bb79.jpg)
-
-<figcaption>
-
-Exterior of Metsätalo building, with visible mark left by machinegun fire
-
-</figcaption>
-
+<img src="utakai-doku-yui.png" title="wikilink"
+alt="utakai-doku-yui.png" />
+<figcaption aria-hidden="true">utakai-doku-yui.png</figcaption>
 </figure>
 
 <figure>
-
-![](../2022-06-06-shanimasu-utakai/utakai-doku-yui.png)
-
-<figcaption>
-
-caption
-
-</figcaption>
-
+<img src="utakai-sho-kaku.png" title="wikilink"
+alt="utakai-sho-kaku.png" />
+<figcaption aria-hidden="true">utakai-sho-kaku.png</figcaption>
 </figure>
 
-
-</figure>
-
-<figure>
-
-![](../2022-06-06-shanimasu-utakai/utakai-sho-kaku.png)
-
-<figcaption>
-
-caption2
-
-</figcaption>
-
-</figure>
-
-</figure>
-
-<figure>
-
-![](../2022-06-06-shanimasu-utakai/image.png)
-
-<figcaption>
-
-caption
-
-</figcaption>
-
-</figure>
-
+------------------------------------------------------------------------
 
 ## 書：待ち合わせ書淫の君の顔かんばせの眼鏡がんきょうキラリ映る黄紅葉
 
+![極度乾燥しなさいVER2.0 Archive/post/2022/06/images/image.png](極度乾燥しなさいVER2.0 Archive/post/2022/06/images/image.png "wikilink")
 題材として「書」を考えた時に、真っ先に思い浮かんだのが桑山千雪さんのこの1枚だったのでそこから作ってみた。
 
 コミュでも中心に置かれている印象的な彼女のアンダーリムのメガネと、文庫本を読む女性の画がすごく好き（多分新海誠が悪い）なので取り上げ、秋の黄色いイチョウの鮮やかさが映り込む、という写真的な歌になった気がする。
@@ -80,7 +43,11 @@ caption
 ## 覚：遠雷に覚める午睡の寂しさに見舞いの君を留めたくなる
 
 次にクリアに題材が思いついたのが「覚」で、これはもうこのカードしかないだろうということでいくつか作ってみた。
-![極度乾燥しなさいVER2.0 Archive/post/2022/06/images/image-1.png](極度乾燥しなさいVER2.0 Archive/post/2022/06/images/image-1.png "wikilink")
+
+<figure>
+<img src="image-1.png" title="wikilink" alt="image-1.png" />
+<figcaption aria-hidden="true">image-1.png</figcaption>
+</figure>
 
 【雨情】のコミュ1話「場面・雨」には、風邪気味で学校を休んだ円香を小糸が学校を抜け出して見舞う場面が描かれる。斬新なコミュ表現で度肝を抜かれた思い出がある。この「病欠の昼に雨音で目が覚める」というシチュエーションがすごく印象に残っていたので、コミュが見られない環境でとりあえずこれに目星をつけた。
 
@@ -101,12 +68,8 @@ caption
 独は実は自分が提出した題字案だったのだけれど、思ったより苦労した。案としては特定のカードに依らずSHHis、はづきあたりで考えていたのだがうまいこと出てこなかった。
 
 <figure>
-<img
-src="極度乾燥しなさいVER2.0 Archive/post/2022/06/images/image-2.png"
-title="wikilink"
-alt="極度乾燥しなさいVER2.0Archive/post/2022/06/images/image-2.png" />
-<figcaption
-aria-hidden="true">極度乾燥しなさいVER2.0Archive/post/2022/06/images/image-2.png</figcaption>
+<img src="image-2.png" title="wikilink" alt="image-2.png" />
+<figcaption aria-hidden="true">image-2.png</figcaption>
 </figure>
 
 最近（悪いオタクにそそのかされて）読んだ【\_チエルアルコ_は流星の】→めぐるGRAD→めぐるLP→Star n dew by meの流れを思い出したところ、「独り」は対比させることで光るだろうと思いめぐるで詠んでみることにした。（チエルアルコおじさんの再生産）
