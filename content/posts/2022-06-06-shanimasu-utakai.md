@@ -10,21 +10,15 @@ title: シャニマス歌会第十一回提出作解題・改稿
 https://twitter.com/Shiny_412/status/1532365642996715520
 
 <figure>
-<img
-src="極度乾燥しなさいVER2.0 Archive/post/2022/06/images/シャニマス歌会（結・独）.png"
-title="wikilink"
-alt="極度乾燥しなさいVER2.0Archive/post/2022/06/images/シャニマス歌会（結・独）.png" />
-<figcaption
-aria-hidden="true">極度乾燥しなさいVER2.0Archive/post/2022/06/images/シャニマス歌会（結・独）.png</figcaption>
+<img src="utakai-doku-yui.png" title="wikilink"
+alt="utakai-doku-yui.png" />
+<figcaption aria-hidden="true">utakai-doku-yui.png</figcaption>
 </figure>
 
 <figure>
-<img
-src="極度乾燥しなさいVER2.0 Archive/post/2022/06/images/シャニマス歌会（書・覚）.png"
-title="wikilink"
-alt="極度乾燥しなさいVER2.0Archive/post/2022/06/images/シャニマス歌会（書・覚）.png" />
-<figcaption
-aria-hidden="true">極度乾燥しなさいVER2.0Archive/post/2022/06/images/シャニマス歌会（書・覚）.png</figcaption>
+<img src="utakai-sho-kaku.png" title="wikilink"
+alt="utakai-sho-kaku.png" />
+<figcaption aria-hidden="true">utakai-sho-kaku.png</figcaption>
 </figure>
 
 <figure>
